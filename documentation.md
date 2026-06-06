@@ -22,7 +22,7 @@ Shared files are stored in the `includes` folder:
 - `db.php`: Creates the PDO database connection.
 - `auth.php`: Handles sessions, role checks, flash messages, redirects, escaping, and CSRF token helpers.
 - `header.php`: Shared page header and navigation.
-- `footer.php`: Shared page footer.
+- `footer.php`: Shared closing layout file.
 
 ## Database Schema
 

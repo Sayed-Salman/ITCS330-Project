@@ -18,8 +18,7 @@ $flashMessages = get_flash_messages();
     <header class="site-header">
         <nav class="navbar">
             <a class="brand" href="index.php">
-                <span class="brand-mark">CC</span>
-                <span>College Courses</span>
+                <span>College Courses System</span>
             </a>
 
             <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">

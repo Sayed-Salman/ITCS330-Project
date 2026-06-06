@@ -33,14 +33,6 @@ require_once 'includes/header.php';
             <strong>ITCS330</strong>
             <span>Database Driven Websites</span>
         </div>
-        <div class="preview-row">
-            <strong>ITCS214</strong>
-            <span>Data Structures</span>
-        </div>
-        <div class="preview-row">
-            <strong>ITCS333</strong>
-            <span>Internet Software Development</span>
-        </div>
         <div class="preview-stats">
             <div>
                 <span class="stat-number">2</span>
