@@ -1,5 +1,14 @@
 # College Course Management System
 
+## Team Members
+
+| ID | Name |
+| --- | --- |
+| 202405648 | AHMED ABDULSALAM AHMED ALOMRI |
+| 202302855 | HASAN AHMED HASAN MAYOOF |
+| 202201576 | SAYED SALMAN ADNAN ABDULLA SHUBAR |
+| 202002168 | SAYED ADNAN MUSTAFA MOHD.SALEH ALMOSAWI |
+
 ## Project Description
 
 This is an ITCS330 Database Driven Websites course project built with plain PHP, MySQL, HTML, CSS, and JavaScript. The system allows users to register, log in, view courses, and search the course catalog. Admin users can manage course records with full CRUD operations.
